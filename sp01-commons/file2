@@ -1,2 +1,7 @@
 服务器端创建的文件拉去到本地
+<<<<<<< HEAD
 修改演示冲突，本地先修改不提交，服务端提交结束再提交
+=======
+修改演示冲突，服务器端修改并先提交
+>>>>>>> branch 'master' of https://github.com/Easy-yes/test0.git
+在本地合并后的fiel2
