@@ -5,4 +5,9 @@
 修改演示冲突，服务器端修改并先提交
 >>>>>>> branch 'master' of https://github.com/Easy-yes/test0.git
 在本地合并后的fiel2
+<<<<<<< HEAD
 新建分支v2后修改文件提交模拟分支冲突
+=======
+新建分支后修改文件file2
+>>>>>>> refs/remotes/origin/v2
+合并分之后文件冲突，合并文件后提交
